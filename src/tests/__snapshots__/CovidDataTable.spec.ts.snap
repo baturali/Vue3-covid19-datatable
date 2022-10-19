@@ -1,0 +1,83 @@
+// Vitest Snapshot v1
+
+exports[`CovidDataTable > Renders properly 1`] = `
+DOMWrapper {
+  "isDisabled": [Function],
+  "wrapperElement": <table
+    data-v-8a977408=""
+  >
+    <thead
+      data-v-8a977408=""
+    >
+      <tr
+        data-v-8a977408=""
+      >
+        
+        <td
+          data-test="Country"
+          data-v-8a977408=""
+        >
+           Country
+        </td>
+        <td
+          data-test="TotalConfirmed"
+          data-v-8a977408=""
+        >
+           Total Confirmed
+        </td>
+        <td
+          data-test="TotalDeaths"
+          data-v-8a977408=""
+        >
+           Total Deaths
+        </td>
+        <td
+          data-test="TotalRecovered"
+          data-v-8a977408=""
+        >
+           Total Recovered
+        </td>
+        
+      </tr>
+    </thead>
+    <tbody
+      data-v-8a977408=""
+    >
+      
+      
+    </tbody>
+    <tfoot
+      data-v-8a977408=""
+    >
+      <tr
+        data-v-8a977408=""
+      >
+        <td
+          class="text-right"
+          data-v-8a977408=""
+        >
+           Total: 
+        </td>
+        <td
+          data-test="total-confirmed"
+          data-v-8a977408=""
+        >
+          0
+        </td>
+        <td
+          data-test="total-deaths"
+          data-v-8a977408=""
+        >
+          0
+        </td>
+        <td
+          data-test="total-recovered"
+          data-v-8a977408=""
+        >
+          0
+        </td>
+      </tr>
+    </tfoot>
+  </table>,
+}
+`;
